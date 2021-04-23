@@ -1,1 +1,2 @@
-# -DevUserInterface_Lab-2
+# DevUserInterface_Lab-2
+Slider
